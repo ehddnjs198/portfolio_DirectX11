@@ -7,4 +7,4 @@
 <li> </li>
 </ul>
 
-<a href="https://studio.youtube.com/video/ZVq0V6tJQ4I/edit">포트폴리오 영상</a><br>
+<a href="https://www.youtube.com/watch?v=ZVq0V6tJQ4I">포트폴리오 영상</a><br>
