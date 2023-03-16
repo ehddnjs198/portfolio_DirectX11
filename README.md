@@ -7,4 +7,4 @@
 <li> </li>
 </ul>
 
-<a id="user-content-skills" class="anchor" aria-hidden="true" href="#skills">
+<a href="https://studio.youtube.com/video/ZVq0V6tJQ4I/edit">포트폴리오 영상</a><br>
