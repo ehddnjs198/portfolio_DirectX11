@@ -6,5 +6,5 @@
 <li>3D 오브젝트를 파일로 fbx 파일로 읽은 후 크기를 자유자재로 움직일 수 있습니다.</li>
 <li>키보드 이벤트는 싱글톤 디자인 패턴을 사용하였습니다. </li>
 </ul>
-
+<img src="directx11.PNG" alt="DirectX11Photo"> <br>
 <a href="https://www.youtube.com/watch?v=ZVq0V6tJQ4I">포트폴리오 영상</a><br>
